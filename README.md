@@ -1,10 +1,9 @@
 [Actividad Evaluada.pdf](https://github.com/VladimirMorote/Actividad-1-Kodigo/files/10892585/Actividad.Evaluada.pdf)
 # Actividad-1-Kodigo
 
-1
 
-Fill & Edit
-Actividad Evaluada #1Desarrollar mediante HTML una galería de imágenesFecha de entrega:viernes, 12 de agosto de 2022Indicaciones:
+Actividad Evaluada #1Desarrollar mediante HTML una galería de imágenesFecha de entrega:
+Domingo 5 de Marzo, Indicaciones:
 
 1.La entrega seráindividual.
 
